@@ -194,7 +194,7 @@ Spring recorded the highest ROI (23.82 from Pinterest on Desktop) but showed low
 - Since Instagram had the highest conversions, increase budget allocation for Instagram, particularly for high-intent audiences. Test Instagram-exclusive promotions to further boost conversion potential.
 - Discount ads had the highest engagements and conversions, suggesting strong appeal. Invest more in Discount ads while testing variations for further improvement. Since Collection ads had the highest shares but fewer interactions, adjust messaging to drive more direct engagement.
 - Since higher spending leads to higher conversion value, strategically increase budget allocation from September to November when ad performance peaks. Maintain steady but lower spending from March–August, using this period for testing new strategies.
-- London had the highest engagement, which can be improved by allocating more resources to ads in this city. Additionally, optimize ads Manchester and Birmingham by improving ads message and introducing a catcy call to action. Birmingham, despite lower engagement numbers, had a strong conversion rate. Test tailored messaging to further enhance performance.
+- London had the highest engagement, which can be improved by allocating more resources to ads in this city. Additionally, optimize ads Manchester and Birmingham by improving ads message and introducing a catchy call to action. Birmingham, despite lower engagement numbers, had a strong conversion rate. Test tailored messaging to further enhance performance.
 
 
 
