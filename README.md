@@ -175,10 +175,8 @@ ORDER BY MONTH
 - Pinterest has the highest Return on Investment (ROI) of 21.50 compared to the rest of the campaign showing strong cost efficiency and good revenue generation during this time.
 - Facebook has 5,438,638 Impressions, 69,961 Clicks which is the highest compared to Instagram with 4,839,709 Impressions, 68,655 Clicks and  Pinterest  with 4,364,288 Impressions, 42,982 Clicks. However, Instagram has 15,590 Conversions which is the highest compared to Facebook with 13,132 Conversions and Pinterest with 11,530 Conversions. This shows Facebook had the most traffic while Instagram converted the most users.
 - London has the highest overall engagement (285,706), followed by Manchester (278,159) and Birmingham (237,874).
-- Birmingham has the highest overall engagement (28.78), followed by Manchester (22.86) and Birmingham (17.61)
-Ad Performance Across Devices
+- Birmingham has the highest overall conversion rate (28.78), followed by Manchester (22.86) and London (17.61)
 - Both the "Discount" ad  and  the "Collection" ad performed better on Mobile than on Desktop. Mobile devices generated higher engagement across all ad types, confirming that users are more active on mobile compared to desktops.
-Engagement Type Breakdown
 - Discount ads have the highest likes which is the most common interaction  indicating user appreciation while Collection has the highest share. This suggests that collection ads content is valuable enough to be shared but it may need adjustments in message or visuals to increase user interaction. However, comments are the least frequent engagement, implying that the ads may not be prompting much conversation or feedback
 - Desktop generated the highest conversion rate 0f 23.98%. This implies that ads are purchased more via desktop compared to mobile.
 - Discount ads are the best performing ads in terms of overall engagements(459,629)  and conversions(21,183)
@@ -189,6 +187,21 @@ Spring recorded the highest ROI (23.82 from Pinterest on Desktop) but showed low
 - Early months  from  (March–August) show relatively stable but lower performance, suggesting a low ad strategy.  Increased spending from September to November leads to higher conversions and conversion value. Ad performance improves in the later months of the year, likely due to seasonal demand.
 
 ## Recommendations
+
+- Given that Fall generated the highest impressions, clicks, and conversions, allocate a higher budget for campaigns during this period to maximize engagement and ROI. Consider launching promotional offers or exclusive deals in Fall to capitalize on the strong seasonal demand.
+- Pinterest delivered the highest ROI, particularly on Desktop. Prioritize Pinterest ads for high-ROI campaigns, especially during Spring and Summer.
+- Facebook generated the most traffic but had the lowest ROI. Optimize Facebook campaigns by improving audience targeting and refining creatives to enhance conversion rates.
+- Since Instagram had the highest conversions, increase budget allocation for Instagram, particularly for high-intent audiences. Test Instagram-exclusive promotions to further boost conversion potential.
+- Discount ads had the highest engagements and conversions, suggesting strong appeal. Invest more in Discount ads while testing variations for further improvement. Since Collection ads had the highest shares but fewer interactions, adjust messaging to drive more direct engagement.
+- Since higher spending leads to higher conversion value, strategically increase budget allocation from September to November when ad performance peaks. Maintain steady but lower spending from March–August, using this period for testing new strategies.
+- London had the highest engagement, which can be improved by allocating more resources to ads in this city. Additionally, optimize ads Manchester and Birmingham by improving ads message and introducing a catcy call to action. Birmingham, despite lower engagement numbers, had a strong conversion rate. Test tailored messaging to further enhance performance.
+
+
+
+
+
+
+
 
 
 
