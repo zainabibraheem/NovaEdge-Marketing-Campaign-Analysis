@@ -4,7 +4,7 @@
 NovaEdge has been running multiple marketing campaigns across various channels (Facebook, Instagram, Pinterest) to promote our products. We have collected detailed data on daily ad performance, including metrics like impressions, clicks, spend, conversions, and engagement (likes, shares, comments). This project aims to analyze this data to gain insights into the effectiveness of our campaigns, optimize our ad spend, and improve future marketing strategies.
 
 ## Problem Statement
-NovaEdge wants to optimize its marketing campaigns by analyzing past performance data. However, without a clear understanding of the factors contributing to campaign success, the company risks inefficient budget allocation and missed opportunities for growth. This project seeks to evaluate campaign data to identify key performance drivers, maximize the effectiveness of ViralByte’s advertising budget, and refine future marketing strategies for improved engagement and ROI.
+NovaEdge wants to optimize its marketing campaigns by analyzing past performance data. However, without a clear understanding of the factors contributing to campaign success, the company risks inefficient budget allocation and missed opportunities for growth. This project seeks to evaluate campaign data to identify key performance drivers, maximize the effectiveness of the advertising budget, and refine future marketing strategies for improved engagement and ROI.
 
 ## Aim and Objectives
 ## Aim
